@@ -23,7 +23,6 @@ export default function Login() {
       to-slate-300
     ">
 
-      {/* LOGIN CARD */}
       <div className="
         bg-white/80
         backdrop-blur-lg

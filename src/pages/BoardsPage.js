@@ -78,7 +78,6 @@ export default function BoardsPage() {
   <>
     <Navbar />
 
-    {/* PAGE BACKGROUND */}
     <div className="
       min-h-screen
       p-10
@@ -159,7 +158,6 @@ export default function BoardsPage() {
           </div>
         ))}
 
-        {/* CREATE BOARD */}
         {creating ? (
 
           <div className="
